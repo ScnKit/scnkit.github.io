@@ -1,1 +1,1 @@
-# scnkit.github.io
+# website content hosting for scenekit.org
